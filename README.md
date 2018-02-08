@@ -9,3 +9,5 @@ Week 3: Programming Exercise 2: Logistic Regression
 Week 4: Programming Exercise 3: Multi-class Classication and Neural Networks
 
 Week 5: Programming Exercise 4: Neural Networks Learning
+
+Week 6: Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance
